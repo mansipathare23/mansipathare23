@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mansi Pathare  
-🎓 B.Tech in Artificial Intelligence & Machine Learning Engineering (Honors in Data Science), 2021–2025  
+🎓 B.Tech in Artificial Intelligence & Machine Learning Engineering (Honors in Data Science), 2022–2026  
 🏫 G H Raisoni College of Engineering & Management, Pune  
 📍 Pune, Maharashtra, India  
 
